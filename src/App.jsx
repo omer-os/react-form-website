@@ -27,6 +27,7 @@ export default function App() {
               'email':Email,
               'phone':Phone
             })
+            window.close()
             alert('! تم الارسال بنجاح ')
           }
           else{
