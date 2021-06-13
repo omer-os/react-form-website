@@ -158,6 +158,7 @@ fieldset {
     flex-direction: column;
     align-items: flex-end;
     border-radius: 1px;
+    background-color: white;
 }
 
 .inside_radios input{
